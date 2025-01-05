@@ -1,0 +1,2 @@
+# Terraformpratice
+All terraform 
